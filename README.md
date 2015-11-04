@@ -1,11 +1,9 @@
-Cycle Philly, 2013 Code for Philly
+Cycle San Diego, 2015 Open San Diego
 -----------
-Philadelphia, PA. USA
+San Diego, CA. USA
 
- Contact: Corey Acri <acri.corey@gmail.com>
-             Lloyd Emelle <lemelle@codeforamerica.org>
-             Kathryn Killebrew <banderkat@gmail.com>
-
+Contact: hi@opensandiego.org
+ 
 Updated/Modified for Philadelphia's app deployment. Based on the
 CycleTracks codebase for SFCTA.
 
