@@ -1,5 +1,7 @@
 Cycle San Diego, 2015 Open San Diego
 -----------
+
+[![Join the chat at https://gitter.im/merelyanode/Cycle-Philly-Android](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/merelyanode/Cycle-Philly-Android?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 San Diego, CA. USA
 
 Contact: hi@opensandiego.org
